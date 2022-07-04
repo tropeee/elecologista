@@ -16,7 +16,7 @@
                                 <ul class="nav nav-pills" id="mainNav">
                                     <li>
                                         <a class="dropdown-item" href="#">
-                                            INICIO
+                                            
                                         </a>
                                     </li>
                                     <li><a href='https://issuu.com/elecologista/docs/el-ecologista_vol._1_corregida' target='_blank' rel='nofollow'>VOLUMEN I</a></li>
@@ -32,6 +32,10 @@
 									<li><a href='https://issuu.com/elecologista/docs/el_20ecologista_2011' target='_blank' rel='nofollow'>VOLUMEN XI</a></li>
 									<li><a href='https://issuu.com/elecologista/docs/10-12-2020_ecologista_12' target='_blank' rel='nofollow'>VOLUMEN XII</a></li>
 									<li><a href='https://issuu.com/elecologista/docs/01_ecologista_2021_digital' target='_blank' rel='nofollow'>VOLUMEN XIII</a></li>
+                                    <li><a href='https://issuu.com/elecologista/docs/ecologista_abril-junio_3_' target='_blank' rel='nofollow'>VOLUMEN XIV</a></li>
+                                    <li><a href='https://issuu.com/elecologista/docs/ecologista-octubre' target='_blank' rel='nofollow'>VOLUMEN XV</a></li>
+                                    <li><a href='https://issuu.com/elecologista/docs/ecologista_diciembre_2021' target='_blank' rel='nofollow'>VOLUMEN XVI</a></li>
+                                    <li><a href='https://issuu.com/elecologista/docs/el_ecologista_17' target='_blank' rel='nofollow'>VOLUMEN XVII</a></li>
                                 
                                 </ul>
                                     

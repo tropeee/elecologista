@@ -239,6 +239,58 @@
 								</span>
 							</a>
 						</div>
+
+						<div class="col-6 col-md-4 p-0">
+							<a href="{{ asset('img/portadas/por14.jpg') }}">
+								<span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+									<span class="thumb-info-wrapper">
+										<img src="{{ asset('img/portadas/por14.jpg') }}" class="img-fluid" alt="">
+										<span class="thumb-info-action">
+											<span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
+										</span>
+									</span>
+								</span>
+							</a>
+						</div>
+
+						<div class="col-6 col-md-4 p-0">
+							<a href="{{ asset('img/portadas/por15.jpg') }}">
+								<span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+									<span class="thumb-info-wrapper">
+										<img src="{{ asset('img/portadas/por15.jpg') }}" class="img-fluid" alt="">
+										<span class="thumb-info-action">
+											<span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
+										</span>
+									</span>
+								</span>
+							</a>
+						</div>
+
+						<div class="col-6 col-md-4 p-0">
+							<a href="{{ asset('img/portadas/por16.jpg') }}">
+								<span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+									<span class="thumb-info-wrapper">
+										<img src="{{ asset('img/portadas/por16.jpg') }}" class="img-fluid" alt="">
+										<span class="thumb-info-action">
+											<span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
+										</span>
+									</span>
+								</span>
+							</a>
+						</div>
+
+						<div class="col-6 col-md-4 p-0">
+							<a href="{{ asset('img/portadas/por17.jpg') }}">
+								<span class="thumb-info thumb-info-no-borders thumb-info-centered-icons">
+									<span class="thumb-info-wrapper">
+										<img src="{{ asset('img/portadas/por17.jpg') }}" class="img-fluid" alt="">
+										<span class="thumb-info-action">
+											<span class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></span>
+										</span>
+									</span>
+								</span>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -504,8 +556,43 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-sm-9 col-md-8 col-lg-6">
+					<div class="card border-0 caz">
+						<div class="card-body p-5">
+							<div data-url="https://issuu.com/elecologista/docs/ecologista_abril-junio_3_" class="issuuembed"></div>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
+			<div class="row justify-content-center pb-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
+				<div class="col-sm-9 col-md-8 col-lg-6">
+					<div class="card border-0 caz">
+						<div class="card-body p-5">
+							<div data-url="https://issuu.com/elecologista/docs/ecologista-octubre" class="issuuembed"></div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-9 col-md-8 col-lg-6">
+					<div class="card border-0 caz">
+						<div class="card-body p-5">
+							<div data-url="https://issuu.com/elecologista/docs/ecologista_diciembre_2021" class="issuuembed"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center pb-4 mb-4 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
+				<div class="col-sm-9 col-md-8 col-lg-6">
+					<div class="card border-0 caz">
+						<div class="card-body p-5">
+							<div data-url="https://issuu.com/elecologista/docs/el_ecologista_17" class="issuuembed"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+		
 </section>
 
 
