@@ -308,7 +308,8 @@
 			<div class="col-md-3 text-center">
 				@if($post->id!=6)
 				<a href="/post/{{ $post->slug }}" class="nav-link font-weight-semibold text-2">
-					<img src="{{ Voyager::image( $post->image ) }}" style="width:100%">
+					<!--<img src="{{ Voyager::image( $post->image ) }}" style="width:100%">-->
+					<img src="{{$post->image}}" style="width:100%">
 					<span >{{ $post->title }}</span>
 				</a>
 				@endif
